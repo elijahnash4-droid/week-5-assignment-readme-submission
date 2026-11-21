@@ -1,4 +1,4 @@
-# Storing Threads
+# Multi-thread Merge sort
 
 ## Project Description
 
